@@ -5,7 +5,7 @@ Optimized accesibility and readability of HORISEON marketing website.
 
 ## Deployed Pages
 
-[Deployed GitPage](https://deckiedevs.github.io/horiseon/)
+[Deployed GitPage](https://dannyae.github.io/bootcamp-challenge-01/)
 
 [Deployed Page Screenshot](./assets/images/horiseon-deployed.png)
 
